@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏻‍♀️, I'm Chiho🇨🇦</h1>
-<h3 align="center">I am a college student studying to become a web developer and seeking employment. I enjoy building creative websites and applications. I love to create websites that put smiles on people's faces. I always think of helping people's daily life with my work 😊</h3>
+<h5 align="center">I am a college student studying to become a web developer and seeking employment. I enjoy building creative websites and applications. I love to create websites that put smiles on people's faces. I always think of helping people's daily life with my work 😊</h3>
 <img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="coding" width="470"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimoha31&label=Profile%20views&color=0e75b6&style=flat" alt="chimoha31" /> </p>
