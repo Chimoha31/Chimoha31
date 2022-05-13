@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **mokochii1108@gmail.com**
 
-- 🙈 Fun fact: **I love Dogs🐶 and Anime📺 **
+- 🙈 Fun fact: **I love Dogs🐶 and Anime📺**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
